@@ -1,0 +1,26 @@
+.bg-section{
+    background-color: #f1f1f1 !important;
+}
+
+.side-menu{
+    background-color: #08404d;
+    height: 100vh;
+}
+
+.text-green{
+    color: #08404d;
+}
+
+.nav-item a{
+    color: #fff;
+}
+
+.content{
+    height: 150px;
+}
+
+.icon{
+    font-size: 4rem;
+    margin-left: 10px;
+    opacity: .6;
+}
